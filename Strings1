@@ -1,0 +1,12 @@
+
+print('''
+Hey there !!
+You have got selected for this program. Many many congratulations to you .
+
+
+Regards,
+The support team ''')
+
+
+
+print("Here's is the basic program for the strings")
